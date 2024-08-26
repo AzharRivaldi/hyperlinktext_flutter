@@ -4,9 +4,9 @@
 https://youtu.be/VdOod8Leots
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2024/08/tutorial-membuat-aplikasi-hyperlink-textfield-dengan-flutter.html
+https://rivaldi48.blogspot.com/2024/08/tutorial-membuat-aplikasi-hyperlink-text-dengan-flutter.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-E6j1QCWiUNO-70EntPXrbVEXZTxqZMhHBfMjsM3DNAThEGzUg1cWGG38ZvtLJWNBD_ieISldhAplGSl-a-QZ59jPLHiNb8PQqHLmmAUFxmFRcUZAcZwTrN8OMabvjgYLXLxxvyg-lG6hai68S8jymrejqK2a64UkjdDPL-1i3ft8wMArMIZcplCWQxN/s1280/Tutorial%20Membuat%20Aplikasi%20Hyperlink%20Text%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/07/tutorial-membuat-aplikasi-panduan-puasa-dengan-flutter.html" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-E6j1QCWiUNO-70EntPXrbVEXZTxqZMhHBfMjsM3DNAThEGzUg1cWGG38ZvtLJWNBD_ieISldhAplGSl-a-QZ59jPLHiNb8PQqHLmmAUFxmFRcUZAcZwTrN8OMabvjgYLXLxxvyg-lG6hai68S8jymrejqK2a64UkjdDPL-1i3ft8wMArMIZcplCWQxN/s1280/Tutorial%20Membuat%20Aplikasi%20Hyperlink%20Text%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/08/tutorial-membuat-aplikasi-hyperlink-text-dengan-flutter.html" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
